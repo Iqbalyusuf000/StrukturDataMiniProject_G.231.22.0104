@@ -1,0 +1,4 @@
+a = 'selamat datang'
+b = 'di GITHUB saya'
+
+print(a+b)
