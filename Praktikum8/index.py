@@ -1,0 +1,2 @@
+a = haii
+print(a)
